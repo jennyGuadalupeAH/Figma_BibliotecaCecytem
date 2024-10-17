@@ -1,0 +1,22 @@
+[
+  {
+    "id": "VariableCollectionId:27:17",
+    "name": "Collection 1",
+    "modes": [
+      {
+        "name": "Mode 1",
+        "modeId": "27:0"
+      }
+    ],
+    "variables": [
+      {
+        "id": "VariableID:36:2",
+        "name": "txt_correo",
+        "type": "STRING",
+        "values": {
+          "27:0": "type here"
+        }
+      }
+    ]
+  }
+]
